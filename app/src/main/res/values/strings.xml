@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Spoon Counter</string>
+    
+    <string name="dsc_img_spoon">Expend a spoon</string>
 </resources>

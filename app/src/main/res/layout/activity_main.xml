@@ -6,4 +6,17 @@
     android:layout_height="match_parent"
     tools:context="com.sigma.spooncounter.MainActivity">
 
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="146dp"
+        android:layout_height="417dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="97dp"
+        android:contentDescription="@string/dsc_img_spoon"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/img_spoon_std" />
 </android.support.constraint.ConstraintLayout>
